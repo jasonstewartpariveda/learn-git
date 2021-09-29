@@ -1,0 +1,1 @@
+print ("My favorite animal waddles and swims.")
